@@ -1,0 +1,26 @@
+.important {
+  color: red;
+}
+
+.unimportant {
+  color: blue;
+}
+.fish-type {
+  background-color: green;
+}
+
+#nametag {
+  color: blue;
+}
+
+.ignored {
+  color: green;
+}
+
+span {
+  color: yellow;
+}
+
+span {
+  color: red;
+}
